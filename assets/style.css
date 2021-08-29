@@ -80,7 +80,11 @@ body
 	list-style: none;
 	padding: 10px 0;
 	border-top: 1px solid rgba(0, 0, 0, 0.05);
-	direction: flex;
+	display: flex;
 	align-items: center;
 	justify-content: center;
+}
+.user_dropdown .menu ul li img
+{
+	max-width: 20px;
 }
