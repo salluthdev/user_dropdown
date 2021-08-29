@@ -39,7 +39,7 @@ body
 .user_dropdown .menu
 {
 	position: absolute;
-	top: 80;
+	top: 120px;
 	right: -10px;
 	padding: 10px 20px;
 	background: #fff;
@@ -49,6 +49,12 @@ body
 	transition: 0.5s;
 	visibility: hidden;
 	opacity: 0;
+}
+.user_dropdown .menu.active
+{
+	top: 80px;
+	visibility: visible;
+	opacity: 1;
 }
 .user_dropdown .menu::before
 {
