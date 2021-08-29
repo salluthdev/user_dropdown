@@ -88,4 +88,15 @@ body
 	max-width: 20px;
 	margin-right: 10px;
 	opacity: 0.5;
+	transition: 0.5s;
+}
+.user_dropdown .menu ul li:hover img
+{
+	opacity: 1;
+}
+.user_dropdown .menu ul li a
+{
+	display: inline-block;
+	text-decoration: none;
+	color: #555;
 }
