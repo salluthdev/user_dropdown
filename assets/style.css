@@ -79,4 +79,8 @@ body
 {
 	list-style: none;
 	padding: 10px 0;
+	border-top: 1px solid rgba(0, 0, 0, 0.05);
+	direction: flex;
+	align-items: center;
+	justify-content: center;
 }
