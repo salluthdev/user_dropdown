@@ -12,3 +12,18 @@ body
 	overflow-x: hidden;
 	background: #ffccbc;
 }
+.user_dropdown
+{
+	position: fixed;
+	top: 20px;
+	right: 30px;
+}
+.user_dropdown .profile img
+{
+	position: relative;
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	overflow: hidden;
+	cursor: pointer;
+}
