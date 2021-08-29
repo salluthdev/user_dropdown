@@ -86,6 +86,6 @@ body
 .user_dropdown .menu ul li img
 {
 	max-width: 20px;
-	margin-right: 20px;
-
+	margin-right: 10px;
+	opacity: 0.5;
 }
