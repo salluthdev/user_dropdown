@@ -99,4 +99,6 @@ body
 	display: inline-block;
 	text-decoration: none;
 	color: #555;
+	font-weight: 500;
+	transition: 0.5s;
 }
