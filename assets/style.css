@@ -82,9 +82,10 @@ body
 	border-top: 1px solid rgba(0, 0, 0, 0.05);
 	display: flex;
 	align-items: center;
-	justify-content: center;
 }
 .user_dropdown .menu ul li img
 {
 	max-width: 20px;
+	margin-right: 20px;
+
 }
